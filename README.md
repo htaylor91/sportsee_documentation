@@ -35,7 +35,7 @@ git clone https://github.com/your-username/project-name.git
 npm install
 ```
 
-#### 5. Launch the project
+#### 4. Launch the project
 
 ```bash
 npm run start

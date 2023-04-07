@@ -55,7 +55,7 @@
 106C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\yallist\iterator.js133253524078480952 0
 108C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\for-each\package.json133253524075461017 0
 123C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\underscore\amd\_methodFingerprint.js133253524161736708 0
-78C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs133253530965530344 1
+78C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs133253536350349491 1
 128C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\eslint\lib\rules\no-restricted-exports.js133253524204807231 0
 112C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\@bcoe\v8-coverage\src\lib133253524156136705 1
 129C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\ace-builds\src-min-noconflict\mode-alda.js133253524245118594 0
@@ -111,7 +111,7 @@
 144C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\victory-vendor\lib-vendor\d3-shape\src\symbol\triangle.js133253524205327252 0
 133C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\vue-docgen-api\dist\template-handlers\index.js133253524149321924 0
 122C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\eslint\lib\rules\space-unary-ops.js133253524231779773 0
-83C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\README.md133253530647572097 0
+83C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\README.md133253535903930622 0
 104C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\react-docgen\dist133253524154491934 1
 137C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\victory-vendor\lib-vendor\d3-array\src\greatest.js133253524178625084 0
 109C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\lodash\fp\isInteger.js133253524239938603 0
@@ -520,7 +520,7 @@
 100C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\lodash\ary.js133253524206768501 0
 112C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\underscore\amd\isEmpty.js133253524199457237 0
 94C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\public\manifest.json133253520975882272 0
-94C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\entry.css133253530965820208 0
+94C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\entry.css133253536350679479 0
 107C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\postcss\lib\parse.js133253524110032618 0
 120C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\async\internal\promiseCallback.js133253524169060615 0
 109C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\underscore\amd\_set.js133253524164616696 0
@@ -593,7 +593,7 @@
 129C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\eslint\lib\rules\no-useless-constructor.js133253524220444067 0
 114C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\@vue\runtime-core\README.md133253524079330986 0
 115C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\underscore\underscore-esm.js133253524232339773 0
-86C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\scripts133253530886490019 1
+86C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\scripts133253536261815905 1
 154C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\vue-docgen-api\dist\script-handlers\classDisplayNameHandler.test.js133253524090939332 0
 108C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\d3-array\src\count.js133253524098262135 0
 114C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\bluebird\js\release\race.js133253524149481914 0
@@ -699,7 +699,7 @@
 120C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\react-smooth\es6\setRafTimeout.js133253524140089674 0
 118C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\underscore\cjs\_isBufferLike.js133253524158856722 0
 122C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\eslint\lib\rules\no-new-wrappers.js133253524202897255 0
-85C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\styles133253530886610025 1
+85C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\styles133253536261925867 1
 115C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\ace-builds\css\dracula-1.png133253524311336550 0
 91C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\asap133253524095472139 1
 109C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\internmap\src\index.js133253524079870957 0
@@ -949,7 +949,7 @@
 110C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\react-ace\src\split.tsx133253524164336696 0
 91C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\util133253524094252140 1
 103C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\lodash\README.md133253524257895409 0
-104C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\energy.932b11f4.svg133253530965820208 0
+104C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\energy.932b11f4.svg133253536350619526 0
 121C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\@babel\runtime\helpers\decorate.js133253524151241930 0
 141C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\victory-vendor\lib-vendor\d3-time-format\src\locale.js133253524193145057 0
 135C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\eslint\lib\rules\no-unmodified-loop-condition.js133253524216170882 0
@@ -2358,7 +2358,7 @@
 126C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\ace-builds\src-noconflict\mode-praat.js133253524279414047 0
 130C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\xmlcreate\lib\nodes\XmlDtdParamEntityRef.js133253524132586365 0
 130C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\vue-docgen-api\dist\utils\resolveAliases.js133253524160466705 0
-105C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\chicken.74dadd36.svg133253530965810204 0
+105C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\chicken.74dadd36.svg133253536350619526 0
 122C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\xmlcreate\lib\nodes\XmlElement.d.ts133253524151351915 0
 120C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\xmlcreate\lib\nodes\XmlElement.js133253524133486420 0
 114C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\delayed-stream\package.json133253524075530955 0
@@ -7414,7 +7414,7 @@
 117C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\ace-builds\src-min\mode-red.js133253524280654039 0
 109C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\lodash\_cloneSymbol.js133253524176625085 0
 114C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\fs-extra\lib\ensure\file.js133253524110752645 0
-102C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\yoga.8b9581b5.svg133253530965800212 0
+102C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\yoga.8b9581b5.svg133253536350619526 0
 107C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\lodash\_copyArray.js133253524177525096 0
 108C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\lodash\_coreJsData.js133253524178015092 0
 114C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\@vue\compiler-sfc\README.md133253524079180953 0
@@ -7483,7 +7483,7 @@
 105C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\lodash\_hasPath.js133253524193785063 0
 118C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\caniuse-lite\data\regions\IN.js133253524231559786 0
 108C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\lodash\_hasUnicode.js133253524193935058 0
-98C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\entry.css.map133253530966100230 0
+98C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\entry.css.map133253536350799493 0
 112C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\lodash\_hasUnicodeWord.js133253524194015058 0
 112C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\lodash\_initCloneArray.js133253524194145064 0
 112C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\lodash\_initCloneByTag.js133253524194255063 0
@@ -8592,7 +8592,7 @@
 105C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\is-extglob\LICENSE133253524082390965 0
 126C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\@babel\helpers\lib\helpers-generated.js133253524086659302 0
 133C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\is-expression\node_modules\acorn\dist\acorn.js133253524093129324 0
-93C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\entry.js133253530968290201 0
+93C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\entry.js133253536354709461 0
 162C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\@babel\generator\node_modules\@jridgewell\gen-mapping\dist\types\types.d.ts133253524107242601 0
 105C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\array-uniq\license133253524082930968 0
 110C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\is-extglob\package.json133253524075420951 0
@@ -9803,7 +9803,7 @@
 107C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\cross-spawn\lib\util133253524094152124 1
 104C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\commander\LICENSE133253524075530955 0
 117C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\cross-spawn\lib\util\escape.js133253524084339305 0
-105C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\barbell.947c2873.svg133253530965800212 0
+105C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\barbell.947c2873.svg133253536350619526 0
 115C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\constantinople\.editorconfig133253524079030978 0
 112C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\asynckit\lib\streamify.js133253524112322616 0
 116C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\constantinople\.gitattributes133253524082490956 0
@@ -12105,7 +12105,7 @@
 124C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\ace-builds\src-min\snippets\scrypt.js133253524291648146 0
 122C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\ace-builds\src-min\snippets\scss.js133253524291718138 0
 120C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\ace-builds\src-min\snippets\sh.js133253524291798131 0
-97C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\entry.js.map133253530969110192 0
+97C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\entry.js.map133253536357439454 0
 122C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\ace-builds\src-min\snippets\slim.js133253524291958134 0
 139C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\@babel\runtime\helpers\classPrivateMethodInitSpec.js133253524142159673 0
 122C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\@bcoe\v8-coverage\dist\lib\clone.js133253524088819310 0
@@ -13285,12 +13285,12 @@
 104C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\.bin\tsserver.cmd133253525441818627 0
 96C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\.bin\vite133253525441868727 0
 100C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\node_modules\.bin\vite.cmd133253525441848633 0
-84C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build133253530969130230 1
-87C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\entry.js133253530887660027 0
+84C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build133253536357449467 1
+87C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\entry.js133253536262945860 0
 107C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\styles\prettify-tomorrow.css133253525290581226 0
 95C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\styles\reset.css133253525290601224 0
-103C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\apple.8389adbd.svg133253530965810204 0
-105C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\bicycle.4e1dda06.svg133253530965800212 0
-110C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\cheeseburger.38c43a23.svg133253530965810204 0
-102C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\logo.a2947877.svg133253530965820208 0
-102C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\swim.89d7992a.svg133253530965800212 0
+103C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\apple.8389adbd.svg133253536350619526 0
+105C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\bicycle.4e1dda06.svg133253536350619526 0
+110C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\cheeseburger.38c43a23.svg133253536350619526 0
+102C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\logo.a2947877.svg133253536350679479 0
+102C:\Users\htayl\OneDrive\Desktop\OpenClassrooms\P12\sportsee_documentation\docs\build\swim.89d7992a.svg133253536350619526 0
