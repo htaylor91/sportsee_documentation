@@ -1,0 +1,254 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title> components/Activity/Activity.jsx</title>
+
+  <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script src="build/entry.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700|Inconsolata,700" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+  <link type="text/css" rel="stylesheet" href="https://jmblog.github.io/color-themes-for-google-code-prettify/themes/tomorrow-night.min.css">
+  <link type="text/css" rel="stylesheet" href="styles/app.min.css">
+  <link type="text/css" rel="stylesheet" href="styles/iframe.css">
+  <link type="text/css" rel="stylesheet" href="">
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+  
+</head>
+
+
+
+<body class="layout small-header">
+    <div id="stickyNavbarOverlay"></div>
+    
+
+<div class="top-nav">
+    <div class="inner">
+        <a id="hamburger" role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+        <div class="logo">
+            
+             
+                <a href="index.html">
+                    <h1 class="navbar-item">SportSee</h1>
+                </a>
+            
+        </div>
+        <div class="menu">
+            
+            <div class="navigation">
+                <a
+                    href="index.html"
+                    class="link"
+                >
+                    Documentation
+                </a>
+                
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+    <div id="main">
+        <div
+            class="sidebar "
+            id="sidebarNav"
+        >
+            
+                <div class="search-wrapper">
+                    <input id="search" type="text" placeholder="Search docs..." class="input">
+                </div>
+            
+            <nav>
+                
+                    <h2><a href="index.html">Documentation</a></h2><div class="category"><h3>Modules</h3><ul><li><a href="module-MockedData.html">MockedData</a></li><li><a href="module-index.html">index</a></li></ul><h3>Externals</h3><ul><li><a href="external-BarChart.html">BarChart</a></li><li><a href="external-LineChart.html">LineChart</a></li><li><a href="external-NavLink.html">NavLink</a></li><li><a href="external-Outlet.html">Outlet</a></li><li><a href="external-RadarChart.html">RadarChart</a></li><li><a href="external-RadialBarChart.html">RadialBarChart</a></li><li><a href="external-RouterProvider.html">RouterProvider</a></li><li><a href="external-axios.html">axios</a></li><li><a href="external-createHashRouter.html">createHashRouter</a></li><li><a href="external-createRoot.html">createRoot</a></li></ul><h3>Classes</h3><ul><li><a href="APIService.html">APIService</a></li><li><a href="ActivityModel.html">ActivityModel</a></li><li><a href="DataService.html">DataService</a></li><li><a href="DataServiceMocked.html">DataServiceMocked</a></li><li><a href="MockedService.html">MockedService</a></li><li><a href="PerformanceModel.html">PerformanceModel</a></li><li><a href="SessionsModel.html">SessionsModel</a></li><li><a href="UserModel.html">UserModel</a></li></ul><h3>Components</h3><ul><li><a href="Activity.html">Activity</a></li><li><a href="ActivityTooltip.html">ActivityTooltip</a></li><li><a href="App.html">App</a></li><li><a href="Banner.html">Banner</a></li><li><a href="CurrentServiceProvider.html">CurrentServiceProvider</a></li><li><a href="CurrentUserProvider.html">CurrentUserProvider</a></li><li><a href="Error.html">Error</a></li><li><a href="ErrorPage.html">ErrorPage</a></li><li><a href="HeaderNavigation.html">HeaderNavigation</a></li><li><a href="Home.html">Home</a></li><li><a href="IconTile.html">IconTile</a></li><li><a href="Loading.html">Loading</a></li><li><a href="MacrosCard.html">MacrosCard</a></li><li><a href="Performance.html">Performance</a></li><li><a href="Profile.html">Profile</a></li><li><a href="Score.html">Score</a></li><li><a href="ScoreLegend.html">ScoreLegend</a></li><li><a href="Sessions.html">Sessions</a></li><li><a href="SessionsTooltip.html">SessionsTooltip</a></li><li><a href="SideNavigation.html">SideNavigation</a></li><li><a href="Toggle.html">Toggle</a></li></ul><h3>Globals</h3><ul><li><a href="global.html#CurrentServiceContext">CurrentServiceContext</a></li><li><a href="global.html#CurrentUserContext">CurrentUserContext</a></li><li><a href="global.html#SportSeeAPI">SportSeeAPI</a></li><li><a href="global.html#SportSeeAPIMocked">SportSeeAPIMocked</a></li><li><a href="global.html#useAxios">useAxios</a></li><li><a href="global.html#useCurrentService">useCurrentService</a></li><li><a href="global.html#useCurrentUser">useCurrentUser</a></li></ul><h3><a href="global.html">Global</a></h3></div>
+                
+            </nav>
+        </div>
+        <div class="core" id="main-content-wrapper">
+            <div class="content">
+                <header class="page-title">
+                    <p>Source</p>
+                    <h1>components/Activity/Activity.jsx</h1>
+                </header>
+                
+
+
+
+    
+    <section>
+        <article>
+            <pre class="prettyprint source linenums"><code>import useAxios from '../../hooks/useAxios';
+import ActivityModel from '../../models/ActivityModel';
+import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import ActivityTooltip from './ActivityTooltip';
+import Loading from '../Loading';
+import Error from '../Error'
+
+/**
+ * @external BarChart
+ * @see {@link https://recharts.org/en-US/api/BarChart}
+ */
+
+const ActivityStyles = {
+  text: {
+    fontSize: '15px',
+    fontWeight: '600',
+  }
+}
+
+/**
+ * @component
+ * @see {@link external:BarChart}
+ */
+function Activity(){
+  const {loading, error, data} = useAxios('activityService');
+  
+  if(loading) return &lt;Loading/>
+  if(error) return &lt;Error/>
+  if(data){
+      const activityData = new ActivityModel(data);
+      const graphData = activityData?.activity;
+
+      return (
+          &lt;ResponsiveContainer
+            width="100%"
+            height="100%"
+            >
+            &lt;BarChart
+            alignSelf='center'
+            data={graphData}
+            barGap={8}
+            margin={{top: 5, right: 0, left: 20, bottom: 5}}
+            >
+
+            &lt;text
+              x={20}
+              y={20}
+              fill="var(--color-blue-dark)"
+              style={ActivityStyles.text}
+            >
+              &lt;tspan>Activité quotidienne&lt;/tspan>
+            &lt;/text>
+
+            &lt;Legend
+                verticalAlign="top"
+                align="right"
+                iconType="circle"
+                iconSize={10}
+                height={80}
+                wrapperStyle={{right: 0, left: 20}}
+              />
+
+              &lt;CartesianGrid 
+                strokeDasharray="3 3" 
+                vertical={false}
+              />
+
+              &lt;XAxis 
+                dataKey="day"
+                tickLine={false}
+                height={50}
+                tickMargin={16}
+                />
+
+              &lt;YAxis 
+                dataKey="kilograms" 
+                yAxisId="kilograms" 
+                orientation='right'
+                tickCount={3}
+                domain={['dataMin - 1', 'dataMax + 2']}
+                tickLine={false}
+                axisLine={false}
+                width={50}
+                tickMargin={16}
+                />
+
+              &lt;YAxis 
+                dataKey="calories"
+                yAxisId="calories"
+                orientation='left'
+                domain={[0, 'dataMax + 20']}
+                hide
+                />
+
+              &lt;Tooltip
+                offset={60}
+                label={false}
+                content={&lt;ActivityTooltip/>}
+                wrapperStyle={{outline: 'transparent'}}
+                cursor={{
+                  fill: 'var(--color-gray-semi-transparent)',
+                  strokeOpacity: 0.2,
+                }}
+              />
+
+              &lt;Bar 
+                name="Poids (kg)" 
+                dataKey="kilograms" 
+                yAxisId="kilograms" 
+                barSize={7}
+                radius={[20, 20, 0, 0]}
+                fill="var(--color-gray-dark)" />
+
+              &lt;Bar 
+                name="Calories brûlées (kCal)" 
+                dataKey="calories" 
+                yAxisId="calories" 
+                barSize={7}
+                radius={[20, 20, 0, 0]}
+                fill="var(--color-red-dark)" />
+
+            &lt;/BarChart>
+          &lt;/ResponsiveContainer>
+      );
+  }
+}
+
+export default Activity;</code></pre>
+        </article>
+    </section>
+
+
+
+
+            </div>
+            
+            <footer class="footer">
+                <div class="content has-text-centered">
+                    <p>Documentation generated by <a href="https://github.com/jsdoc3/jsdoc">JSDoc 4.0.2</a></p>
+                    <p class="sidebar-created-by">
+                        <a href="https://github.com/SoftwareBrothers/better-docs" target="_blank">BetterDocs theme</a> provided with <i class="fas fa-heart"></i> by
+                        <a href="http://softwarebrothers.co" target="_blank">SoftwareBrothers - JavaScript Development Agency</a>
+                    </p>
+                </div>
+            </footer>
+            
+        </div>
+        <div id="side-nav" class="side-nav">
+        </div>
+    </div>
+<script src="scripts/app.min.js"></script>
+<script>PR.prettyPrint();</script>
+<script src="scripts/linenumber.js"> </script>
+
+<script src="scripts/search.js"> </script>
+
+
+</body>
+</html>

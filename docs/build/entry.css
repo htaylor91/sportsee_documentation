@@ -1,0 +1,388 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.bd__button {
+  text-align: right;
+  padding: 10px 0;
+}
+
+.bd__button > a {
+  color: #bdc3cb;
+  font-family: sans-serif;
+  font-weight: 100;
+  text-decoration: none;
+}
+
+.bd__button > a:hover {
+  color: #798897;
+}
+
+.App {
+  min-width: 100vw;
+  min-height: 100vh;
+  --header-height: 91px;
+  --sidenav-width: 117px;
+  grid-template-areas: "header header"
+                       "sidenav main";
+  grid-template-columns: var(--sidenav-width) 1fr;
+  grid-template-rows: var(--header-height) 1fr;
+  display: grid;
+}
+
+.header {
+  grid-area: header;
+}
+
+.sidenav {
+  min-height: calc(100vh - var(--header-height));
+  grid-area: sidenav;
+}
+
+.Profile {
+  min-width: calc(100vw - var(--sidenav-width));
+  grid-area: main;
+}
+
+.header, .logo-wrapper, .header ul {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.header {
+  height: 91px;
+  background-color: var(--color-black);
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 24px;
+}
+
+.logo-wrapper {
+  margin-right: 50px;
+}
+
+.logo-wrapper > h1 {
+  color: var(--color-red);
+  margin-left: 10px;
+  font-size: 24px;
+}
+
+.header > nav {
+  flex: 1;
+}
+
+.header ul {
+  color: var(--color-white);
+  justify-content: space-between;
+}
+
+.navlink {
+  color: var(--color-white);
+  text-decoration: underline;
+}
+
+.sidenav {
+  width: 117px;
+  background-color: var(--color-black);
+  color: var(--color-white);
+  flex-direction: column;
+  justify-content: space-around;
+  display: flex;
+}
+
+.sidenav-wrapper {
+  align-content: center;
+  justify-content: center;
+  gap: 20px;
+  display: grid;
+}
+
+.copyright-wrapper {
+  justify-content: center;
+  display: flex;
+}
+
+.copyright {
+  writing-mode: vertical-lr;
+  align-self: center;
+  font-size: 12px;
+  font-weight: 500;
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.IconTile {
+  align-items: center;
+  justify-items: center;
+  display: grid;
+}
+
+[data-icon="logo"] {
+  background-color: var(--color-black);
+}
+
+[data-icon="sidenav"] {
+  height: 64px;
+  width: 64px;
+  background-color: var(--color-white);
+  border-radius: 6px;
+}
+
+[data-icon^="keyData"] {
+  width: 60px;
+  height: 60px;
+  border-radius: 6px;
+}
+
+[data-icon$="Calories" i] {
+  background-color: var(--color-red-light);
+}
+
+[data-icon$="Proteines" i] {
+  background-color: var(--color-blue-light);
+}
+
+[data-icon$="Glucides" i] {
+  background-color: var(--color-yellow-light);
+}
+
+[data-icon$="Lipides" i] {
+  background-color: var(--color-pink-light);
+}
+
+.Banner {
+  width: 1170px;
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
+.Banner > h2 {
+  font-size: 48px;
+  font-weight: 500;
+}
+
+@container profile (width < 1200px) {
+  .Banner {
+    width: 835px;
+  }
+}
+
+.ErrorPage {
+  height: 100vh;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+  font-size: 1.2em;
+  display: grid;
+}
+
+.ErrorPage > h1 {
+  color: var(--color-red-dark);
+  font-size: 5rem;
+}
+
+.navlink-return {
+  color: var(--color-black);
+  padding-top: 2rem;
+  font-size: 2rem;
+}
+
+.navlink-return:hover {
+  color: var(--color-red-dark);
+}
+
+.Home {
+  flex-direction: column;
+  gap: .5rem;
+  padding: 2rem;
+  display: flex;
+}
+
+.Home > div {
+  align-items: center;
+  gap: .5rem;
+  display: flex;
+}
+
+.Home > div > span {
+  font-weight: 700;
+}
+
+.toggle {
+  opacity: 0;
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+.toggle + label {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.toggle + label:before {
+  content: "";
+  width: 4rem;
+  height: 2rem;
+  background-color: var(--color-gray-light);
+  border-radius: 2rem;
+  margin-right: .5rem;
+  transition: all .4s;
+}
+
+.toggle + label:after {
+  content: "";
+  width: 1.9rem;
+  height: 1.9rem;
+  background-color: green;
+  border-radius: 2rem;
+  transition: all .4s;
+  position: absolute;
+  left: .1rem;
+}
+
+.toggle:checked + label {
+  opacity: 1;
+}
+
+.toggle:checked + label:after {
+  background-color: red;
+  -webkit-transform: translateX(100%);
+  transform: translateX(100%);
+}
+
+.MacrosCard {
+  --gap-macros: 24px;
+  --height-macros: 124px;
+  --width-macros: 258px;
+  --padding-macros: 32px;
+  align-items: center;
+  gap: var(--gap-macros);
+  height: var(--height-macros);
+  width: var(--width-macros);
+  padding: var(--padding-macros);
+  background-color: var(--color-gray-lightest);
+  border-radius: 5px;
+  display: flex;
+}
+
+.MacrosCard h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.MacrosCard p {
+  color: var(--color-gray);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+@container profile (width < 1200px) {
+  .MacrosCard {
+    --gap-macros: 15px;
+    --height-macros: 95px;
+    --width-macros: 195px;
+    --padding-macros: 16px;
+    gap: var(--gap-macros);
+    height: var(--height-macros);
+    width: var(--width-macros);
+    padding: var(--padding-macros);
+  }
+}
+
+.main-profile {
+  align-items: center;
+  justify-items: center;
+  display: grid;
+  container: profile / inline-size;
+}
+
+.Profile {
+  max-width: 1200px;
+  align-items: center;
+  justify-items: center;
+  padding: 1rem;
+  display: grid;
+}
+
+.graphics-container {
+  max-width: 1170px;
+  grid-template-columns: 1fr 1fr;
+  gap: 35px;
+  display: grid;
+}
+
+.activity-container {
+  width: 835px;
+  height: 320px;
+}
+
+.square-charts-container {
+  justify-content: space-between;
+  align-items: end;
+  gap: 20px;
+  padding-top: 30px;
+  display: flex;
+}
+
+.macros-container {
+  max-width: 300px;
+  grid-template-rows: repeat(4, 1fr);
+  grid-template-columns: 1fr;
+  align-items: center;
+  justify-items: center;
+  gap: 40px;
+  display: grid;
+}
+
+@container profile (width < 1200px) {
+  .graphics-container {
+    grid-template-columns: 1fr;
+    align-items: center;
+    justify-items: center;
+  }
+
+  .macros-container {
+    max-width: 835px;
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(4, max-content);
+    justify-content: space-between;
+    justify-items: center;
+    gap: 18px;
+  }
+}
+
+/*# sourceMappingURL=entry.css.map */
