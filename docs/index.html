@@ -109,6 +109,7 @@
 
     <section>
         <article><h1>Sportsee</h1>
+<p><img src="./src/assets/logo.svg" alt="Sportsee"></p>
 <h2>Introduction</h2>
 <p>Sportsee is a startup dedicated to sports coaching.</p>
 <ul>
@@ -118,24 +119,50 @@
 <h2>Installation</h2>
 <h3>Prerequisites</h3>
 <ul>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code</a> (or your preferred IDE)</li>
 <li><a href="https://docs.github.com/en/get-started/quickstart/set-up-git">Git</a></li>
 <li><a href="https://nodejs.org/en/">NodeJS (<strong>version 18.15.0</strong>)</a> - includes NPM 9.5.0</li>
-<li><a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm">NPM</a></li>
+<li><a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm">NPM (<strong>version 9.5.0</strong>)</a></li>
 </ul>
 <h3>Install and launch the project (using the Mocked API)</h3>
 <h4>1. Fork this repository</h4>
-<p>Click on the fork button in the top right corner of the <a href="https://github.com/htaylor91/P12_TAYLOR_Heather">repository</a> page.</p>
+<ul>
+<li>Click on the fork button in the top right corner of the <a href="https://github.com/htaylor91/P12_TAYLOR_Heather">repository</a> page.</li>
+</ul>
 <h4>2. Clone the forked respository to your local machine</h4>
-<p>Replace the url with the url below of your forked repository.</p>
-<pre class="prettyprint source lang-bash"><code>git clone https://github.com/your-username/project-name.git
+<ul>
+<li>
+<p>Replace the url below with the url of your forked repository.</p>
+<p><code>https://github.com/your-username/project-name.git</code></p>
+</li>
+<li>
+<p>Open a terminal window and navigate to the directory that will store your project.</p>
+<pre class="prettyprint source lang-bash"><code>cd project-name
 </code></pre>
+</li>
+<li>
+<p>In your terminal, run the command below. The dot at the end will clone the project into the current directory.</p>
+<pre class="prettyprint source lang-bash"><code>git clone https://github.com/your-username/project-name.git .
+</code></pre>
+</li>
+</ul>
 <h4>3. Install the dependencies</h4>
+<ul>
+<li>
+<p>In your terminal, run the command below to install the dependencies listed in the package.json file.</p>
 <pre class="prettyprint source lang-bash"><code>npm install
 </code></pre>
+</li>
+</ul>
 <h4>4. Launch the project</h4>
+<ul>
+<li>
+<p>In your terminal, run the command below to launch the project.</p>
 <pre class="prettyprint source lang-bash"><code>npm run start
 </code></pre>
 <p>The project will launch in your browser at <code>http://localhost:5173</code></p>
+</li>
+</ul>
 <hr>
 <h3>Install and launch the backend (to use the SportSee API)</h3>
 <p>Follow the instructions in the <a href="https://github.com/OpenClassrooms-Student-Center/P9-front-end-dashboard#readme">Sportsee API ReadMe</a> to install the backend.</p>
